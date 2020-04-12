@@ -44,5 +44,5 @@ Using Border mode
 
 ![](images/fix_cnn_cifar10.png)
 
-## Run with 100 epochs.Validation accuracy of 84.65%.
+## Ran with 100 epochs.Validation accuracy of 84.65%.
 
