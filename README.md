@@ -15,7 +15,7 @@
 >- Validation accuracy did not increase too much (plateaus)after 20 epochs
 >- Validation loss dropped the most till 20 epochs and then increased gradually
 >- Input image in 32*32
->- But but the time convolutions are done - we are at 64*64 please see the comments
+>- But but the time convolutions are done - we are at 64*64
 >- Dropouts close to prediction is 50% - which is too high (might drop out required features)
 
 ### Approach and Observations
