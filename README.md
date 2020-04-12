@@ -40,5 +40,7 @@ Using Border mode
 - **Enabled horizontal flip to True**. 
 >- This is a form of data augmentation ( A cat looking right and a cat looking left is still a cat ).After 20 epochs was close to .8220. Hence adding the horizonatal flip definitely helped.
 
+![](images/fix_cnn_cifar10.png)
+
 ## Run with 100 epochs.Validation accuracy of 84.65%.
 
