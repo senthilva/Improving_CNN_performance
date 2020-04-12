@@ -1,4 +1,6 @@
-# Improving CNN performance with iterative steps on the CIFAR10 data set
+# Improving CNN performance on the CIFAR10 data set
+
+In this i have tried to optimize and improve a CNN network on the Cifar 10 dataset - while trying to reduce the parameters by half.
 
 
 ## Approach
@@ -21,7 +23,7 @@
 ### Approach and Observations
 
 - Removed the Fully onnected output layer and replaced with Convolutions
-- Parameters 1.18 MM
+- Parameters 0.645 MM
 
 
 - **First model no dropout; Batch Normalization. 20 epochs**
