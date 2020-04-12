@@ -1,4 +1,4 @@
-# Improving CNN performance with iterative stepsn the CIFAR10 data set
+# Improving CNN performance with iterative steps on the CIFAR10 data set
 
 
 ## Approach
