@@ -44,5 +44,5 @@ Using Border mode
 
 ![](images/fix_cnn_cifar10.png)
 
-## Ran with 100 epochs.Validation accuracy of 84.65%.
+## Ran with 100 epochs.Achieved a alidation accuracy of 84.65% with 50% reduced parameters
 
