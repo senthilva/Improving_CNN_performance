@@ -1,6 +1,6 @@
 # Improving CNN performance on the CIFAR10 data set
 
-In this i have tried to optimize and improve a CNN network on the Cifar 10 dataset - while trying to reduce the parameters by half.
+In this tried to optimize and improve a CNN network on the Cifar 10 dataset - while trying to reduce the parameters by half.
 
 
 ## Approach
